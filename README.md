@@ -20,4 +20,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jashanpsingh&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil Bakshi &bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
