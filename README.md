@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DSA && Backend Developent**
 
 - 📫 How to reach me **nikhilbakshi083@gmail.com**
-</p>
+</p align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
