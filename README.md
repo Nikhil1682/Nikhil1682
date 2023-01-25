@@ -21,5 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil1682&show_icons=true&locale=en" alt="nikhil1682" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1682&" alt="nikhil1682" /></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil1682)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil1682&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
