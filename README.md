@@ -23,4 +23,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1682&" alt="nikhil1682" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil1682)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil1682&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil1682&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![GodkingJay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil1682&custom_title=Nikhil's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
